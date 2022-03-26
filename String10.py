@@ -8,4 +8,4 @@ def main(x, y):
         str: return answer.
     """
     answer = (x + y) * 2
-    return f"(x+y)*2={answer}"
+    return f"({x}+{y})*2={answer}"
