@@ -1,4 +1,4 @@
-def main(x,y):
+def main(x, y):
     """
     Given three integers, x, y, return the "(x+y)*2={answer}" string.
     Args:
@@ -7,4 +7,5 @@ def main(x,y):
     Returns:
         str: return answer.
     """
-    return 
+    answer = (x + y) * 2
+    return f"(x+y)*2={answer}"
