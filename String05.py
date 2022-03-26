@@ -1,4 +1,4 @@
-def main(s1,s2):
+def main(s1, s2):
     """
     s1 and s2 strings are given. return the result by adding a space (" ") between them.
     Args:
@@ -7,4 +7,4 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    return 
+    return s1 + " " + s2
